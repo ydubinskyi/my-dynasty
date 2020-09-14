@@ -2,12 +2,12 @@ import React from 'react';
 
 import Container from '@material-ui/core/Container';
 
-const Home = () => {
+const Login = () => {
   return (
     <Container>
-      <p>Home</p>
+      <p>Login</p>
     </Container>
   );
 };
 
-export default Home;
+export default Login;
